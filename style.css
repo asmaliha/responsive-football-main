@@ -1,0 +1,54 @@
+/* ---------------
+   body
+   --------------- */
+   body {
+    font-family: 'Poppins', sans-serif;
+   }
+
+
+/* ----------------
+   first-section
+   ---------------- */
+
+.first-section {
+    display:flex;
+    background-color:#2D25A0;
+    align-content: center;
+}
+.heading {padding:92px 102px 240px 156px ;}
+    
+.bold-heading {
+    font-size: 64px;
+    font-weight: 700px;
+    color: #FFFFFF;
+    ;
+}
+.lower-option {
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    
+    background-color: #E02C6D;
+    width: 158px;
+    height: 34px;
+    text-align: center;
+    padding: 10px;
+    padding-right: 18px;
+}
+.fas fa-arrow-right {
+    padding-left: 15px;
+    height: 16px;
+    width: 24px;
+}
+.play-image {
+    width:556.01px ; 
+    height:450px ;
+    
+    padding-right: 100px;
+    padding-top: 153px;
+    
+}
+.more-design:hover  {
+    transform: scale(0.8) rotate(360deg);
+    transition: ease-in-out transform 5s;
+}
